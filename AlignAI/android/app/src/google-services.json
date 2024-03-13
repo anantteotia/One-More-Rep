@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450767341277",
+    "project_id": "alignai-40413",
+    "storage_bucket": "alignai-40413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450767341277:android:69dcea80d6dffe5c9f7d34",
+        "android_client_info": {
+          "package_name": "com.example.align_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450767341277-hnqa6ngfueq5ch4vr1jvg6cq5qrtqe1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.align_ai",
+            "certificate_hash": "3b04f30ef0a758ab9c035ea52602e20d684a317d"
+          }
+        },
+        {
+          "client_id": "450767341277-knootro52rpbt5o5l9rpda16mf94dc07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pMgxr1p58neqsjc_sExdRVsPSa4u3o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450767341277-knootro52rpbt5o5l9rpda16mf94dc07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
